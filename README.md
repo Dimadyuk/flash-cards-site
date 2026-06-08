@@ -1,2 +1,6 @@
-# FlashCards
-Flashcards is a language learning application that helps users memorize words and phrases using flashcards and spaced repetition.  Features Create and manage flashcard collections Learn vocabulary with repetition exercises Import and export learning data Track learning progress Cross-platform support
+<h2><strong>Flashcards:</strong></h2>
+<p>
+  <a href="https://dimadyuk.github.io/uvindex-app-site/support.html" target="_blank">App support page</a><br>
+  <a href="https://dimadyuk.github.io/uvindex-app-site/privacy-policy-android.html" target="_blank">Android privacy policy</a><br>
+  <a href="https://dimadyuk.github.io/uvindex-app-site/privacy-policy-ios.html" target="_blank">iOS privacy policy</a>
+</p>
